@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Fighter
+comment1.params=p\ o
+comment1.target=void\ useWeapon(int,\ int)
+comment2.params=s
+comment2.target=void\ useSpecialAbility(int)
+comment3.params=h
+comment3.target=void\ useHealthPotion(int)
+numComments=4

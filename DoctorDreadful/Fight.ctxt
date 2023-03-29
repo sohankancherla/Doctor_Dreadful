@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Fight
+comment1.params=
+comment1.target=Fight()
+comment2.params=f
+comment2.target=int\ fight(Fighter)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

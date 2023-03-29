@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Menace
+comment1.params=
+comment1.target=Menace()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getHealth()
+comment4.params=p\ o
+comment4.target=void\ useWeapon(int,\ int)
+comment5.params=s
+comment5.target=void\ useSpecialAbility(int)
+comment6.params=h
+comment6.target=void\ useHealthPotion(int)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

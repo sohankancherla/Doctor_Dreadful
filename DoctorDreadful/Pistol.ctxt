@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pistol
+comment1.params=a
+comment1.target=Pistol(int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getCoolDown()
+comment4.params=
+comment4.target=void\ setCoolDown()
+comment5.params=
+comment5.target=void\ setCoolDown0()
+comment6.params=
+comment6.target=void\ reduceCoolDown()
+comment7.params=
+comment7.target=java.lang.String\ options()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
